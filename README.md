@@ -22,8 +22,6 @@ Due to their functional relationship and the existence of biosynthetic gene clus
 
 # Results
 
-()
-
 * Unfortunately only 31% appeared to be significant, but a large amount (30%) were not well annotated enough to be able to make a conclusion.
 
 <p align="center">
@@ -44,3 +42,4 @@ Due to their functional relationship and the existence of biosynthetic gene clus
 
 # Code
 
+A few Python scripts have been included to give a rough idea of some of the code.
