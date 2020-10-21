@@ -22,3 +22,25 @@ Due to their functional relationship and the existence of biosynthetic gene clus
 
 # Results
 
+()
+
+* Unfortunately only 31% appeared to be significant, but a large amount (30%) were not well annotated enough to be able to make a conclusion.
+
+<p align="center">
+<img src="Images/Significance.png">
+</p>
+
+* Interestingly, the mustard family (Brassicaceae) had a high proportion of significant genomes.
+
+<p align="center">
+<img src="Images/PhylogeneticTree.png">
+</p>
+
+* Of those genomes that were significant, OSC genes were found overwhelmingly in pairings with CYP71 clan and CYP85 clan (particularly CYP716 family) genes (clans are David Nelson’s classifications).
+
+<p align="center">
+<img src="Images/P450families.png">
+</p>
+
+# Code
+
